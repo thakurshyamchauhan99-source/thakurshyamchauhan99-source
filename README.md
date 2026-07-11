@@ -1,6 +1,7 @@
 <p align="center">
 <img  alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </p>
+<br>
 <h1 align="center">Hi 👋, I'm Shyam Kumar</h1>
 
 <h3 align="center">
@@ -79,8 +80,9 @@ A Full-Stack MERN Developer passionate about building real-world platforms with 
 </a>
 
 <a href="mailto:thakurshyamchauhan99@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
-## 👀 Profile Views
+<br>
 
+## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=thakurshyamchauhan99-source&color=blue)
